@@ -1,7 +1,7 @@
 # Decision-Trees-and-Random-Forest-Project
 This project was part of Python for Data Science and Machine Learning Bootcamp on Udemy by Jose Portilla. 
 
-The main goal of the project is to learn and understand about applying Decision Trees and Random Forests alogorithm for a data science problem set. Below is the project description in detail.
+The main goal of the project is to learn and understand about applying Decision Trees and Random Forests alogorithms for a data science problem set. Below is the project description in detail.
 
 # Random Forest Project 
 
