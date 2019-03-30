@@ -1,8 +1,7 @@
 # Decision-Trees-and-Random-Forest-Project
 This project was part of Python for Data Science and Machine Learning Bootcamp on Udemy by Jose Portilla. 
 
-The main goal of the project to learn and apply Decision Tree and Random Forest Machine learning algorithms on a real world data set taken from 
-lendingclub.com. Here below is the project description in detail:
+The main goal of the project is to learn and apply Decision Tree and Random Forest Machine learning algorithms on a real world data set taken from lendingclub.com. Here below is the project description in detail:
 
 # Random Forest Project 
 
